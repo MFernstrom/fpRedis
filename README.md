@@ -9,7 +9,6 @@ I'm updating, bugfixing, and adding features.
 
 **TODO**
 
-* Fix line parser
 * Implement more commands
 
 **Compatibility**
